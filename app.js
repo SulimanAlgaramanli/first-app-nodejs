@@ -4,6 +4,6 @@
 sayHello("Sulllliman");
 console.log(module);
 */
-var logger = require ('./logger');
+const logger = require ('./logger');
 
-console.log(logger);
+logger.log('message'); 
