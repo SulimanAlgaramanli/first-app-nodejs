@@ -4,6 +4,9 @@
 sayHello("Sulllliman");
 console.log(module);
 */
-const logger = require ('./logger');
+const logger= require ('./logger');
 
-logger.log('message'); 
+
+//console.log(logger);
+logger.suliman("Hello world !...")
+//logger("Hello world !...")
